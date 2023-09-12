@@ -34,5 +34,4 @@
 ## 5)"%":Modul;
 ## 6)"++":Increment;
 ## 7)"--":Decrement;
-jghhghyy
-
+Hell
