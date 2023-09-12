@@ -34,4 +34,11 @@
 ## 5)"%":Modul;
 ## 6)"++":Increment;
 ## 7)"--":Decrement;
-Hell
+# Three important topics:
+## 1)conditins;
+## 2)Loops;
+## 3)Functuons;
+# Conditions;
+## 1) conditions(if,else if, else);
+## 2) Ternary Operator(Condition:true : false;)
+## 3) Switch case;
